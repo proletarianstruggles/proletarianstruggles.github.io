@@ -12,5 +12,5 @@ permalink: /about/
 </p>
 
 ### 联系邮箱：[jiashishengyuantuan@gmail.com](mailto:jiashishengyuantuan@gmail.com)
-### 官方电报：@jiashigongrensyt 或 +8617124473592
+### 官方电报：@jiashigrsyt 或 +8618264163520
 
