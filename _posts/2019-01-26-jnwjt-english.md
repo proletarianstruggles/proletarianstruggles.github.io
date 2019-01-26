@@ -56,10 +56,10 @@ categories: ['english']
   <p>Jasic Workers' Supporting Group</p>
 </blockquote>
 
-<p>佳士工人声援团</p>
+<p>2019年1月25日</p>
 
 <blockquote>
-  <p>Jasic Workers' Supporting Group</p>
+  <p>January 25, 2019</p>
 </blockquote>
 
 
