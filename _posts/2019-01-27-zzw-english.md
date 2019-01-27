@@ -61,5 +61,9 @@ categories: ['english']
   <p>But we believe that no matter in the vast world, at home, or in a prison cell, as long as our minds are with the proletariat and the laborers, who are now suffering and under oppressive exploitation, our morale for fighting will not vanish away. Even if we are gone, we have already seen that so many comrades joined the ranks of our struggle. So why do I sigh?</p>
 </blockquote>
 
+<p align="center"><img src="https://i.loli.net/2019/01/27/5c4d5240043e3.png" alt="1.jpg" title="1.jpg" /></p>
+<p align="center"><img src="https://i.loli.net/2019/01/27/5c4d542c2bcc2.png" alt="1.jpg" title="1.jpg" /></p>
+<p align="center"><img src="https://i.loli.net/2019/01/27/5c4d542573fee.png" alt="1.jpg" title="1.jpg" /></p>
+<p align="center"><img src="https://i.loli.net/2019/01/27/5c4d53eb56229.png" alt="4.jpg" title="4.jpg" /></p>
 ---
 Please visit the official website [https://jiashigrsyt1.github.io/](https://jiashigrsyt1.github.io/) to get the real-time news of jasic workers and the young marxist students in China！Please spread it to support the unite workers and young Marxist students !
