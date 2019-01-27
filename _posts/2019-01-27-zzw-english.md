@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 tags: 
   - 张子尉
 comments: true
-title: 【The Latest List of The Arrested and Missed Jasic Workers Supporters】 
+title: Faced with the persecution and threat of evil forces, progressive youth choose to stand with workers
 categories: ['english']
 ---
 <p>我是张子尉，北京大学2017级本科生，今天，我正被限制着人身和通讯自由，怀着冤屈和不解写出这段话。 </p>
