@@ -101,4 +101,4 @@ categories: ['english']
 
 
 ---
-Please visit the official website [https://jiashigrsyt.github.io/](https://jiashigrsyt.github.io/) to get the real-time news of jasic workers and the young marxist students in China！Please spread it to support the unite workers and young Marxist students !
+Please visit the official website [https://jiashigrsyt1.github.io/](https://jiashigrsyt.github.io/) to get the real-time news of jasic workers and the young marxist students in China！Please spread it to support the unite workers and young Marxist students !
