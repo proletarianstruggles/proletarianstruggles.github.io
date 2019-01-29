@@ -4,7 +4,7 @@ layout: post
 tags: 
   - 起底“认罪视频”
 comments: true
-title: Plead guilty video text version
+title: The text version of guilty video
 categories: ['english']
 ---
 <p>Video link: https://od-22.wistia.com/medias/59asqxoe5j </p>
