@@ -1,12 +1,11 @@
 ---
 published: true
 layout: post
-tags: 
-  - 新年致辞
+tags: 新春致辞
 comments: true
 title: New Year's Pronouncement from the Jasic Workers Support Group : Unite for Greater Victory!
-categories: ['english']
 ---
+
 Comrades:
 >同志们：
 
