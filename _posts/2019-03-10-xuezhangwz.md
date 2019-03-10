@@ -119,3 +119,7 @@ title: 该向人民认罪的不是你，我的同志——给狱中学长的一�
 <p align="right">学弟</p>
 
 <p align="right">2019年3月10日</p>
+
+<p style="align: center;">
+ <img src="https://i.loli.net/2019/03/10/5c85017686a53.jpg" alt="HY图.jpg" title="HY图.jpg" />
+</p>
