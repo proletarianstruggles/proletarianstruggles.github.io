@@ -33,6 +33,8 @@ navigation:
     url: /tags
   - name: English column
     url: /english
+  - name： 短评
+    url： /short-comment
 #  - name: Theme
 #    url: https://github.com/AWEEKJ/kiko-now
 
